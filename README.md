@@ -1,2 +1,2 @@
 Welcome to my personal website!
-- Zhikuan Quan
+- [Zhikuan Quan](https://zhikuanquan.com)
