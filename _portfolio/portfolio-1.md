@@ -1,9 +1,9 @@
 ---
-title: "Mandatory Jail Sentence Policy and Traffic Fatalities"
-excerpt: "This project is one of the course projects of STA 207 at UCD.<br/><img src='/images/Fatality_STA_207.png'>"
+title: "Classification of COVID-19 with CT Images by CNNs"
+excerpt: "This project is the course projects of STA 221 at UC Davis, which is also the 2020 Kaggle CS Competition. <br/><img src='/images/covid-19.png'>"
 collection: portfolio
 ---
 
-According to the National Highway Traffic Safety Administration, 36560 fatalities due to motor vehicle crashes occurred in the United States in 2018, in which drunk-driving crash accounted for 29 percent. Based on previous research, our project focused on the effects of per capita income, unemployment rate, spirit consumption, tax on beer and whether having a mandatory jail sentence on traffic fatalities.
+The presented work mainly focuses on how to establish an efficient and accurate model to distinguish between COVID-19 and healthy patients. The image data for pneumonia and healthy patients are obtained from Kaggle and they are used to train the classification model. Since Convolutional Neural Networks (CNNs) have achieved expert-level performance in complex visual recognition tasks, the flexible model can extract intricate patterns directly from the CT images without the need to manually define the features by doctors.
 
-[Download Full PDF](https://zhikuanquan.github.io/files/Mandatory_Jail_Sentence_Policy_and_Traffic_Fatalities.pdf)
+[Download Full PDF](https://zhikuanquan.github.io/files/Classification_of_COVID_19_with_CT_Images_by_CNNs.pdf)
