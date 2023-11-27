@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing Normal University, 2015-2019
-* M.S. in University of California, Davis, 2019-2021 (expected)
+* PhD in Biostatistics @ University of California, Davis, 2021-2026
+* Master of Science in Biostatistics @ University of California, Davis, 2019-2021
+* Bachelor of Science in Statistics @ Beijing Normal University, 2015-2019
 
 Research experience
 ======
@@ -48,8 +49,9 @@ Skills
 ======
 * Statistical Analysis
   * Causal Inference
-  * Statistical Learning
-* Computer Science
+  * Personalized Medicine
+  * Machine Learning
+* Technical Software 
   * Python
   * R
   * SAS
